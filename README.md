@@ -1,2 +1,2 @@
 # BG_Projects
-Analyzing the revenue of a global superstore
+Analyzing the Revenue of a Global Superstore
